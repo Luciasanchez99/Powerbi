@@ -10,6 +10,10 @@ En esta primera páctica de Power BI se ha realizado un estudio de dos bases de 
 
 En esta segunda práctica de Power BI se ha realizado un estudio de una base de datos de transportes del país México. En ella se ha analizado el precio medio global, así como distinguiendo según ciudad o tipo de transporte, como puede ser el autobús, taxi o avión. 
 
+## 1 Prueba técnica
+
+En esta prueba técnica de una empresa se ha realizado un dashboard en power BI, donde se ha dado carta blanca a realizar cualquier análisis que se quisiera. Se han relacionado los datos ofrecidos y a raíz de eso se han analizados para sacar el margen de beneficio, las ventas, los ingresos, los costes. Se han realizado distintas gráficas donde se ve la evolucion de los ingresos, las ventas y los paises donde se adquieren ciertos tipos de marcas y productos. 
+
 ## Aprendizaje Continuo
 
 Siempre estoy buscando oportunidades para aprender y crecer como analista. He participado en cursos en línea, así como he asistido a conferencias. Mantengo un registro de mis actividades de aprendizaje para mostrar mi compromiso con el crecimiento constante.
